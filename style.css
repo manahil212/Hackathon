@@ -1,0 +1,73 @@
+
+.navbar-nav{
+    gap: 30px;
+}
+.btn1{
+    background-color:#7C4EE4;
+    border: none;
+    color: white;
+}
+.text{
+    color: #7C4EE4;
+}
+.hero{
+    background-color: #7C4EE4;
+}
+.lead{
+    color: white;
+}
+.head{
+    color: white;
+}
+.btn2{
+    background-color: white;
+    border: none;
+}
+.lead1{
+    color: black;
+}
+.btn3{
+    background-color: white;
+    border: none;
+   color:  #7C4EE4;
+    border: none;
+}
+.read{
+   color: #7C4EE4;
+}
+.button-view{
+    background-color: #7C4EE4;
+    border: none;
+    color: white;
+    margin-right: 40px;
+}
+.hero1{
+  background-color: #7C4EE4;
+}
+.get{
+    border: white;
+    border-style: solid;
+    background-color: #7C4EE4;
+    color: white;
+
+}
+.round{
+     border: white;
+    border-style: solid;
+}
+.header{
+    color: white;
+}
+.listed{
+    color: white;
+
+}
+@media screen and (min-width:0px)and (max-width:480px){
+    .again{
+        display: block;
+        flex-direction: column;
+    }
+    .get{
+        margin-top: 20px;
+    }
+}
